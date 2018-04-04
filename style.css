@@ -23,6 +23,7 @@ section {
     background: #ebebeb;
     text-align: center;
     width:495px;
+    height: 300px;
     float: left;
     clear: left;
     margin-right:20px;
@@ -35,6 +36,7 @@ aside {
     background: #ebebeb;
     text-align: center;
     width: 495px;
+    height: 300px;
     float: left;
     clear: right;
     margin-bottom: 15px;
